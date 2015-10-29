@@ -22,7 +22,7 @@
             </intent-filter>
         </activity>
  
-<!-- Intent to switch to page 1 pppp -->
+<!-- Intent to switch to page 1 -->
 <!-- http://developer.android.com/guide/components/intents-filters.html -->
 		<activity 
 		    android:name=".Page1" >
