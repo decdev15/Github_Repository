@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">helloProject</string>
+    <string name="main_button_1">Button 1</string>
+    <string name="main_button_2">Button 2</string>
+    <string name="main_button_3">Button 3</string>
+    <string name="main_button_4">Button 4</string>
+    <string name="main_button_5">Button 5</string>
+    <string name="page1_header">This is Page 1</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
